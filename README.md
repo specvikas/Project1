@@ -1,2 +1,2 @@
-# Project1
-My first project
+  REMOTE METHOD INVOKATION 
+It is the project which simply shows you the different uses of RMI. 
